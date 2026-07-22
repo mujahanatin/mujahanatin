@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mujahanatin/mujahanatin/main/banner.svg" width="100%" alt="Banner Hana"/>
+<img src="https://raw.githubusercontent.com/mujahanatin/mujahanatin/main/banner.svg.svg" width="100%" alt="Banner Hana"/>
 
 </div>
 
