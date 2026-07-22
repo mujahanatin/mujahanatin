@@ -65,7 +65,7 @@ Mahasiswa TI yang lagi asyik gonta-ganti dunia — siang debug kode, malam bangu
 <div align="center">
 
 <a href="https://github.com/mujahanatin/studybuddy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahanatin&repo=studybuddy&theme=tokyonight&hide_border=true&bg_color=0D1117&border_color=D946EF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahanatin&repo=logo_teman_belajar.svg&theme=tokyonight&hide_border=true&bg_color=0D1117&border_color=D946EF" />
 </a>
 
 **StudyBuddy** — platform web teman belajar yang saya bangun untuk membantu proses belajar jadi lebih terarah dan menyenangkan.
