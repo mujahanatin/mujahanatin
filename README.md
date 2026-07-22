@@ -65,10 +65,10 @@ Mahasiswa TI yang lagi asyik gonta-ganti dunia — siang debug kode, malam bangu
 <div align="center">
 
 <a href="https://github.com/mujahanatin/studybuddy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahanatin&repo=studybuddy&theme=tokyonight&hide_border=true&bg_color=0D1117&border_color=D946EF" />
+<img src="studybuddy_logo.svg">
 </a>
 
-**StudyBuddy** — platform web teman belajar yang saya bangun untuk membantu proses belajar jadi lebih terarah dan menyenangkan.
+**StudyBuddy** — platform web teman belajar yang saya bangun untuk membantu proses belajar jadi lebih terjadwal dan menyenangkan.
 
 ---
 
@@ -76,8 +76,8 @@ Mahasiswa TI yang lagi asyik gonta-ganti dunia — siang debug kode, malam bangu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mujahanatin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=D946EF&title_color=00E5FF" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mujahanatin&theme=tokyonight&hide_border=true&background=0D1117&ring=D946EF&fire=00E5FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mujahanatin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=D946EF&title_color=00E5FF" height="250"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mujahanatin&theme=tokyonight&hide_border=true&background=0D1117&ring=D946EF&fire=00E5FF" height="250"/>
 
 </div>
 
