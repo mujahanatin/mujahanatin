@@ -31,8 +31,6 @@ Mahasiswa TI yang lagi asyik gonta-ganti dunia — siang debug kode, malam bangu
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/mujahanatin/mujahanatin/main/foto-profil.jpg" width="220" style="border-radius: 12px;" alt="Hana"/>
-
 <br/><br/>
 
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=25F4EE)](https://www.tiktok.com/@hanastins)
