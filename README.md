@@ -64,7 +64,7 @@ Mahasiswa TI yang lagi asyik gonta-ganti dunia — siang debug kode, malam bangu
 
 <div align="center">
 
-<a href="https://github.com/mujahanatin/studybuddy">
+<a href="https://github.com/mujahanatin/logo_teman_belajar.svg">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahanatin&repo=logo_teman_belajar.svg&theme=tokyonight&hide_border=true&bg_color=0D1117&border_color=D946EF" />
 </a>
 
