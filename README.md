@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ MUJAHANATIN SOLEKHAH ⚡
+hi, i'm Hana
 ### `const Hana = { role: "IT Student", vibe: "dark mode enjoyer" }`
 
 ![Neon Divider](https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d3-4696-9d1f-fabc26909bb0.gif)
@@ -15,7 +15,6 @@
 
 ```yaml
 Nama:      Mujahanatin Solekhah
-Panggilan: Hana
 Kampus:    Politeknik Negeri Madiun
 Jurusan:   Teknologi Informasi
 Semester:  3
@@ -23,14 +22,14 @@ Semester:  3
 
 Mahasiswa TI yang lagi asyik gonta-ganti dunia — siang debug kode, malam bangun base di **Minecraft**, dan selalu ada waktu buat **fangirl-an K-Pop**. Percaya kalau belajar itu paling seru kalau sambil having fun.
 
-## 🎯 Fokus Saat Ini
+## Fokus Saat Ini
 
 | Bidang | Progress |
 |---|---|
-| 🌐 Pengembangan Web | `████████░░` Lagi diperdalam |
-| 🔌 Jaringan Komputer | `███████░░░` Praktik kabel fiber & konfigurasi jaringan |
+| Pengembangan Web | `████████░░` Lagi diperdalam |
+| Jaringan Komputer | `███████░░░` Praktik kabel fiber & konfigurasi jaringan |
 
-> 💭 *"Belajar itu proses, bukan perlombaan — nikmati setiap error yang berhasil di-fix."*
+> *"Belajar itu proses, bukan perlombaan — nikmati setiap error yang berhasil di-fix."*
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -50,7 +49,7 @@ Mahasiswa TI yang lagi asyik gonta-ganti dunia — siang debug kode, malam bangu
 
 ---
 
-## 🧠 Skill & Tools
+## Skill & Tools
 
 <div align="center">
 
@@ -66,7 +65,7 @@ Mahasiswa TI yang lagi asyik gonta-ganti dunia — siang debug kode, malam bangu
 
 ---
 
-## 🚀 Proyek Sorotan
+## Proyek Sorotan
 
 <div align="center">
 
@@ -80,7 +79,7 @@ Mahasiswa TI yang lagi asyik gonta-ganti dunia — siang debug kode, malam bangu
 
 ---
 
-## 📈 Statistik GitHub
+## Statistik GitHub
 
 <div align="center">
 
