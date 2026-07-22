@@ -1,7 +1,6 @@
 <div align="center">
 
-# MUJAHANATIN SOLEKHAH
-### `const Hana = { role: "IT Student", vibe: "dark mode enjoyer" }`
+<img src="https://raw.githubusercontent.com/mujahanatin/mujahanatin/main/banner.svg" width="100%" alt="Banner Hana"/>
 
 </div>
 
@@ -18,7 +17,7 @@ Jurusan:   Teknologi Informasi
 Semester:  3
 ```
 
-Mahasiswa TI yang lagi asik gonta-ganti dunia — siang debug kode, malam bangun base di **Minecraft**, dan selalu ada waktu buat **fangirl-an K-Pop**. Percaya kalau belajar itu paling seru kalau sambil having fun.
+Mahasiswa TI yang lagi asyik gonta-ganti dunia — siang debug kode, malam bangun base di **Minecraft**, dan selalu ada waktu buat **fangirl-an K-Pop**. Percaya kalau belajar itu paling seru kalau sambil having fun.
 
 ## 🎯 Fokus Saat Ini
 
@@ -32,7 +31,7 @@ Mahasiswa TI yang lagi asik gonta-ganti dunia — siang debug kode, malam bangun
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="LINK_FOTO_KAMU_DI_SINI" width="220" style="border-radius: 12px;" alt="Hana"/>
+<img src="https://raw.githubusercontent.com/mujahanatin/mujahanatin/main/foto-profil.jpg" width="220" style="border-radius: 12px;" alt="Hana"/>
 
 <br/><br/>
 
@@ -87,6 +86,8 @@ Mahasiswa TI yang lagi asik gonta-ganti dunia — siang debug kode, malam bangun
 </div>
 
 <div align="center">
+
+![Neon Divider](https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d3-4696-9d1f-fabc26909bb0.gif)
 
 **🎮 Minecraft builder by night · 💜 K-Pop fangirl always · 💻 Future web & network engineer**
 
