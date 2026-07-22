@@ -3,8 +3,6 @@
 # MUJAHANATIN SOLEKHAH
 ### `const Hana = { role: "IT Student", vibe: "dark mode enjoyer" }`
 
-![Neon Divider](https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d3-4696-9d1f-fabc26909bb0.gif)
-
 </div>
 
 <table>
@@ -89,8 +87,6 @@ Mahasiswa TI yang lagi asik gonta-ganti dunia — siang debug kode, malam bangun
 </div>
 
 <div align="center">
-
-![Neon Divider](https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d3-4696-9d1f-fabc26909bb0.gif)
 
 **🎮 Minecraft builder by night · 💜 K-Pop fangirl always · 💻 Future web & network engineer**
 
